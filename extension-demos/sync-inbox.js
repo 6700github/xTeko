@@ -8,10 +8,13 @@ $app.strings = {
     "DELETE_DIRECTLY": "Delete Directly"
   },
   "zh-Hans": {
-    "MAIN_TITLE": "脚本安装器",
-    "EMPTY_TIPS": "请通过 AirDrop 或文件共享导入脚本",
-    "IMPORT_DELETE": "导入后删除",
-    "DELETE_DIRECTLY": "直接删除"
+    "MAIN_TITLE": "Script Installer",
+
+"EMPTY_TIPS": "Please import scripts through AirDrop or file sharing",
+
+"IMPORT_DELETE": "DELETE AFTER IMPORT",
+
+"DELETE_DIRECTLY": "DELETE DIRECTLY"
   }
 }
 
